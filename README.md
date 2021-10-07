@@ -1,7 +1,7 @@
 ### Olá, me chamo **Lucas Zocca** 👋
 
-- 🎓 Estou  cursando o 6º semestre de **Engenharia da Computação** na [FACENS/Sorocaba](https://www.facens.br/).<br>
-- 🤖 Trabalho na [Eduzz](https://www.eduzz.com/), onde desenvolvo fluxos para o ChatBot no padão API Rest com TypeScript, NodeJs e SQL.
+Estou  cursando o 6º semestre de **Engenharia da Computação** na [FACENS/Sorocaba](https://www.facens.br/).<br>
+Trabalho na [Eduzz](https://www.eduzz.com/), onde desenvolvo fluxos para o ChatBot no padão API Rest com TypeScript, NodeJs e SQL.
 
 
 **Linguagens e Bibliotecas:**
